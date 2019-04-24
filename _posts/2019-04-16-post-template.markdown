@@ -9,7 +9,7 @@ The story will require the following header before the story itself:
 ```
 ---
 layout: post
-title:  "Story title"
+title:  "[Story title]"
 categories: story
 ---
 [Story text]
