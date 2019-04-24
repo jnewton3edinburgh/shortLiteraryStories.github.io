@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Story template"
+title:  "Story Three"
 categories: story
 ---
 To add new stories, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.md`.
