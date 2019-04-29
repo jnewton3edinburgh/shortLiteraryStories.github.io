@@ -4,6 +4,9 @@ title: Introduction
 ---
 
 <head>
+ 
+<link rel="stylesheet" href="path/to/balloon.css">
+ 
   <style>
     .flex-container {
       display: flex;
@@ -23,6 +26,8 @@ title: Introduction
 
 This is an example of how the final website would look.
 
+
+
 <div class="introduction">
   <div class="flex-container">
     <div class="overlay">
@@ -35,3 +40,6 @@ This is an example of how the final website would look.
 </div>
 <hr />
 <p>This site will display a list of shortstories and their associated images.</p>
+
+ 
+<span data-balloon="I'm a tooltip." data-balloon-pos="up">Blablabla</span>
