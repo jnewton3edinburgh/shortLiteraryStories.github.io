@@ -1,0 +1,20 @@
+<div type="chapter">
+  <head>Chapter 1: The Manor House</head>
+  <p><name type="person">Charles</name> hadn't visited the manor
+    house since <date when="1955-04-10">Easter, 1955</date>,
+    and now he remembered why.</p>
+  <p><said>Hullo</said>, he called out as he walked up the drive,
+    and then, as if to himself, <said>To be or not to be?, to
+    walk or not to walk...oh, <emph>hang</emph> it all!</said>
+    His meditation on Hamlet was interrupted as he collided
+    with a peacock. <said xml:lang="fr">Sacré bleu!</said> he
+    exclaimed with irritation, his <foreign xml:lang="fr">sang-froid</foreign> completely
+    deserting him. It was going to be a long week. His catalog of
+    irritations included:
+    <list>
+       <item><label>1.</label> The weather</item>
+       <item><label>2.</label> The peacocks</item>
+       <item><label>3.</label> His meagre grasp of French</item>
+    </list>
+  </p>
+</div>
